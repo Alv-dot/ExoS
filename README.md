@@ -1,1 +1,1 @@
-This is the code i used to learn and implement various new things that i was unaware of but now hav learned. This projet also made me learn git and how to commit files and all about how git and github works.
+This is the code i used to learn and implement various new things that i was unaware of but now have learned. This projet also made me learn git and how to commit files and all about how git and github works.
