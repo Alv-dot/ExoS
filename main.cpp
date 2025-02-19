@@ -118,7 +118,7 @@ int main() {
             logFile << processingTime << "," << prediction << "," << processingTime << std::endl;
 
             // Store Training Data
-            size_t groundTruth = 0;  // Replace this with manual labeling if needed
+            size_t groundTruth = 0;  
             trainFile << mav << "," << zc << "," << ssc << "," << wl << "," << rms << "," << groundTruth << std::endl;
 
             controlExoskeleton(prediction);
